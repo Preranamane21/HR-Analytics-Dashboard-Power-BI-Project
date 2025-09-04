@@ -6,6 +6,7 @@ The goal of this project is to support data-driven HR decision-making by visuali
 
 
 
+
 **🔧 Project Workflow**
 
 -Data Cleaning & Processing in Power BI using Power Query
@@ -19,6 +20,7 @@ The goal of this project is to support data-driven HR decision-making by visuali
 -Dashboard Design & Setup for interactive exploration
 
 -Exported Reports for business stakeholders
+
 
 
 **📈 Key Insights from Dashboard**
@@ -41,6 +43,7 @@ The goal of this project is to support data-driven HR decision-making by visuali
 
 
 
+
 **🔹Main Dashboard Overview**
 
 1470 employees analyzed with 16.1% attrition, avg. age 37, avg. salary 6.5K, and avg. tenure of 7 years.
@@ -57,3 +60,6 @@ The goal of this project is to support data-driven HR decision-making by visuali
 **HR Analytics –** Workforce insights & attrition analysis
 
 **Data Visualization –** Charts, filters, and KPIs
+
+
+<img width="1325" height="742" alt="Image" src="https://github.com/user-attachments/assets/aa176ffe-42cd-43de-9eb7-35ab0d195364" />
